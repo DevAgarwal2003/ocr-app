@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+Pillow
+numpy
+opencv-python
+gtts
+pyttsx3
+tensorflow
+pygame
